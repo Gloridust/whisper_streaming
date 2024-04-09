@@ -1,3 +1,4 @@
+注意：这是基于 2024 年 3 月 29 日原始英文项目的翻译版本。
 NOTE: This is a amateur translated version based on the March 29, 2024 version of the original English project. To read the original version, please [click here](https://github.com/ufal/whisper_streaming).
 
 # whisper_streaming
